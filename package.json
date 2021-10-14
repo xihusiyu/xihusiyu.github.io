@@ -15,7 +15,7 @@
     "aplayer": "^1.10.1",
     "gulp-html-minifier-terser": "^6.0.1",
     "hexo": "^5.0.0",
-    "hexo-algoliasearch": "^0.3.2",
+    "hexo-algoliasearch": "^1.0.0",
     "hexo-butterfly-artitalk": "^1.0.4",
     "hexo-butterfly-douban": "^1.2.4",
     "hexo-deployer-git": "^3.0.0",
